@@ -25,6 +25,7 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
+
 # 1.netstat
 <img width="1011" height="280" alt="image" src="https://github.com/user-attachments/assets/031cf56e-fd1a-4b57-a5b3-35a0497ec2df" />
 
