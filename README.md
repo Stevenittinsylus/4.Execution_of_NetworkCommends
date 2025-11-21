@@ -25,9 +25,10 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
-# 1.netstat
+# *netstat*
 <img width="1011" height="280" alt="image" src="https://github.com/user-attachments/assets/031cf56e-fd1a-4b57-a5b3-35a0497ec2df" />
-# 2.ipconfig
+# 2. **ipconfig**
+
 <img width="1355" height="1009" alt="image" src="https://github.com/user-attachments/assets/f9ec10ec-7017-48af-ae0f-1c616a35b09b" />
 # 3.traceret
 # <img width="826" height="275" alt="image" src="https://github.com/user-attachments/assets/acd8b61c-94f2-4d60-a454-1ad3e400695e" />
